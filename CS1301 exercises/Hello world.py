@@ -12,5 +12,3 @@ print("This is line 4")
     #pritn("This is line 5") #This line will not work as there is a function error. "pritn does not exist"
 #NameError: name 'pritn' is not defined
 # Line 14: 'NameError' indicates that the function is not defined i.e. does not exist
-
->>>5 + 2
